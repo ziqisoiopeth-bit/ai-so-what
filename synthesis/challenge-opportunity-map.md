@@ -258,7 +258,7 @@ For each challenge, I check: does any premise's opportunity ALREADY resolve it? 
 |-----------|------------|
 | S1: Decision fatigue from information flood | P1 opp: "taste" as economic input; S2 opp: expertise arbitrage pairs AI retrieval with judgment |
 | S2: Knowledge-holders displaced | S2 opp: "contextualizer" role; P2 opp: premium for excellence over competence |
-| S3: Verification eats into search savings | E1 opp: cryptographic provenance; E2 opp: continuous compliance |
+| S3: Verification eats into search savings | Partially by E1/E2 opps, but those opps are themselves unbuilt infrastructure (= OC1). Reclassified as feeding into OC1 rather than fully covered. |
 | B1: Middlemen displaced | B1 opp: integrative bargaining skills become premium; market efficiency increases |
 | B5: Legal profession volume work disrupted | B5 opp: legal profession restructures around judgment work; P1 opp: direction over execution |
 | P2: Mid-tier professionals killed | P2 opp: premium increases for domains where last 25% matters; S2 opp: expertise-in-action |
